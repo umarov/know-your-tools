@@ -15,6 +15,8 @@
 
 ### 3. Snippets
 
+    - JS ES6 Snippets
+
 ### 4. Emmet
 
 ![Emmet in VS Code](./vs-code-images/emmet.gif)
