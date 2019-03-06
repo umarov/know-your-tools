@@ -2,86 +2,110 @@
 
 ## VS Code
 
-### 1. Command Pallet
+### Command Pallet
 
 - `Command` + `Shift` + `P` or `Control` + `Shift` + `P`
 
 ![Command Palette in VS Code](./vs-code-images/command-palette.gif)
 
-### 2. Breadcrumbs
+### Breadcrumbs
 
 ![Breadcrumbs in VS Code](./vs-code-images/breadcrumbs.gif)
 
-### 3. Snippets
+### Snippets
 
-![Snippets in VS Code](./vs-code-images/snippets.gif)
+- Custom Snippets
+  ![Custom Snippets in VS Code](./vs-code-images/snippets.gif)
 
-### 4. Emmet
+- Built in snippets
+  ![Built in snippets in VS Code](./vs-code-images/builtin-snippets.gif)
+
+- [Sarah Drasner's Vue Snippets](https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-snippets)
+  ![Sarah Drasner's Vue Snippets](vs-code-images/sarahdrasnervuesnippets.gif)
+
+- [JS ES6 Snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
+  ![JS ES6 Snippets](vs-code-images/es6snippets.gif)
+
+### Vetur
+
+- Syntax Highlighting
+- Snippets
+- Linting
+- Autocomplete
+- Error checking
+
+![Vetur](vs-code-images/vetur.gif)
+
+### Emmet
 
 ![Emmet in VS Code](./vs-code-images/emmet.gif)
 
-### 5. Smart selection expansion
+### Smart selection expansion
 
 ![Smart Selection Expansions](vs-code-images/smart-text-selection-expansion.gif)
 
-### 6. Jump back to previous code
+### Jump back to previous cursor or selection
 
 - `Command` + `U` or `Control` + `U` to jump back
 
-### 7. Reopen previously closed file
+![Jump back to previous cursor or selection](vs-code-images/jump-back-to-previous-cursor.gif)
+
+### Reopen previously closed file
 
 - `Command` + `Shift` + `T` or `Control` + `Shift` + `T`
 
-### 8. Multi cursor
+![Reopen previously closed file](vs-code-images/reopen-closed-tabs.gif)
 
-### 9. Indenting with `Control` + `[` or `]`
+### Multi cursor
 
-### 10. Terminal
+![Multi cursor](vs-code-images/multi-line-select.gif)
 
-    - Split Terminals `Control` + `\`
-    - Move between them with `Alt`
-    - Change direction
-    - Being able to use your own shell
-    - Expand terminal
-    - Terminal tabs
-    - Terminal tabs for workspaces
+### Indenting with `Control` + `[` or `]`
 
-### 11. Closing tabs in one group, closing tabs in the whole window
+![Indenting](vs-code-images/indent-line.gif)
 
-### 12. Zen Mode
+### Terminal
 
-    - `Command` + `K` `Z` or `Control` + `K` `Z`
+- Split Terminals `Control` + `\`
+- Move between them with `Alt`
+- Change direction
+- Being able to use your own shell
+- Expand terminal
+- Terminal tabs
+- Terminal tabs for workspaces
 
-### 13. Live Share
+### Closing tabs in one group, closing tabs in the whole window
 
-    - Share code
-    - Share terminal
-    - Share server
+### Zen Mode
 
-### 14. Prettier to Format the code
+- `Command` + `K` `Z` or `Control` + `K` `Z`
 
-### 15. JS Type checking
+### Live Share
 
-### 16. GitLens
+- Share code
+- Share terminal
+- Share server
 
-### 17. Vetur
+### Prettier to Format the code
 
-    - Built in snippets
+### JS Type checking
 
-### 18. Settings Sync
+### GitLens
 
-### 19. Project Manager
+### Settings Sync
 
-### 20. Debugging Node and JS projects
+### Project Manager
 
-    - `Command` + `Shift` + `D`
-    - Log point
-    - Log point with variables
+### Debugging Node and JS projects
 
-### 21. Browser Preview
+- `Command` + `Shift` + `D`
+- Log point
+- Log point with variables
 
-    - Debugging on browser preview
+### Browser Preview
 
-### 22. Auto imports on TypeScript projects
+- Debugging on browser preview
 
-### 23. Refactoring
+### Auto imports on TypeScript projects
+
+### Refactoring
