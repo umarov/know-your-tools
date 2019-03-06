@@ -1,6 +1,10 @@
 # Know your tools
 
+A repo to show some cool things you can do with your tools to improve your productivity
+
 ## VS Code
+
+VS Code specific tips and tricks.
 
 ### Command Pallet
 
