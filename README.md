@@ -72,9 +72,13 @@
 - Being able to use your own shell
 - Expand terminal
 - Terminal tabs
-- Terminal tabs for workspaces
+- Terminal tabs for workspaces (mention in the workspaces section)
+
+![Terminal](vs-code-images/terminal.gif)
 
 ### Closing tabs in one group, closing tabs in the whole window
+
+![Opening and Closing tabs](vs-code-images/opening-and-closing-tabs.gif)
 
 ### Zen Mode
 
@@ -88,15 +92,34 @@
 
 ### Prettier to Format the code
 
+![Prettier](vs-code-images/prettier.gif)
+
 ### JS Type checking
+
+![JS Type checking](vs-code-images/js-type-checking.gif)
 
 ### GitLens
 
+![Gitlens](vs-code-images/gitlens.gif)
+
 ### Settings Sync
+
+- Use gist to upload/download settings
+- Auto-upload every time a setting/extension/shortcut/snippet changes
+- Auto-download on booting VS Code
 
 ### Project Manager
 
-### Debugging Node and JS projects
+- Provide a directory with projects
+- Switch between them with `Alt` + `Shift` + `P`
+
+### Workspaces
+
+- Including multiple projects in one VS Code window
+- Being able to open terminals for each
+- Combined Git experience
+
+### Debugging Node and Vue projects
 
 - `Command` + `Shift` + `D`
 - Log point
@@ -108,4 +131,16 @@
 
 ### Auto imports on TypeScript projects
 
+![Auto Imports on TS](vs-code-images/autoimports.gif)
+
 ### Refactoring
+
+![Refactoring 1](vs-code-images/refactoring.gif)
+
+![Refactoring 2](vs-code-images/refactoring2.gif)
+
+### Other cool extensions
+
+- [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+- [Log File Highlighter](https://marketplace.visualstudio.com/items?itemName=emilast.LogFileHighlighter)
+- [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
