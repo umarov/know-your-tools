@@ -6,20 +6,23 @@
 
 - `Command` + `Shift` + `P` or `Control` + `Shift` + `P`
 
-![Command Palette in VS Code](./vs-code-images/command-palette.png)
-
+![Command Palette in VS Code](./vs-code-images/command-palette.gif)
 
 ### 2. Breadcrumbs
 
-![Breadcrumbs in VS Code](./vs-code-images/breadcrumbs.png)
+![Breadcrumbs in VS Code](./vs-code-images/breadcrumbs.gif)
 
 ### 3. Snippets
+
+![Snippets in VS Code](./vs-code-images/snippets.gif)
 
 ### 4. Emmet
 
 ![Emmet in VS Code](./vs-code-images/emmet.gif)
 
 ### 5. Smart selection expansion
+
+![Smart Selection Expansions](vs-code-images/smart-text-selection-expansion.gif)
 
 ### 6. Jump back to previous code
 
