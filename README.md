@@ -93,6 +93,7 @@ VS Code specific tips and tricks.
 - Share code
 - Share terminal
 - Share server
+- [Voice Chat over Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-audio)
 
 ### Prettier to Format the code
 
